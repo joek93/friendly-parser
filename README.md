@@ -1,5 +1,5 @@
 # friendly-parser
-Simple (user-)friendly command line parser for C++. 
+Simple ((middle-)user-)friendly command line parser for C++. 
 
 ## usage
 An example of usage can be found in 'example_parsing.cpp'.
